@@ -1,5 +1,7 @@
 # President-Of-Soccer
 A "Head Soccer" type game, in which former presidents Trump and Lincoln battle against each other.
+
+
 הוראות הפעלה והסבר מעמיק נמצאים בתיק הפרויקט.
 
 
